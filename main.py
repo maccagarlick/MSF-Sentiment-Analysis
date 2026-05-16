@@ -34,7 +34,7 @@ def prompt_generation(working_directory):
     """
 
     # Improved prompt for better attention to feedback content
-    system_prompt = """Analyze student feedback comments and assign sentiment scores 1-7 for each domain.
+    system_prompt = """Analyse student feedback comments and assign sentiment scores 1-7 for each domain.
 
 SCORING SCALE (1=Very Negative, 7=Very Positive):
 1-2: Negative feedback, concerns, problems
