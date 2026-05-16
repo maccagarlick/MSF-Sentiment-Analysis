@@ -43,7 +43,7 @@ SCORING SCALE (1=Very Negative, 7=Very Positive):
 7: Excellent, outstanding feedback
 
 DOMAINS TO SCORE:
-- MT: Trust/relationships, professional behavior
+- MT: Trust/relationships, professional behaviour
 - VC: Communication skills, clarity
 - TW: Teamwork, collaboration 
 - A: Accessibility, availability, responsibility
